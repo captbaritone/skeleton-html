@@ -1,1 +1,10 @@
 /* Some CSS here */
+
+/* Mobile phones in landscape or smaller tablets */
+@media screen and (min-width: 28.75em) {
+    /* ... */
+}
+/* Larger displays *//
+@media screen and min-width: 40.5em) {
+    /* ... */
+}
